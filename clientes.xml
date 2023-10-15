@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<clientes>
+    <cliente>
+        <nombre>Paco</nombre>
+        <edad>30</edad>
+    </cliente>
+    <cliente>
+        <nombre>Chaval</nombre>
+        <edad>25</edad>
+    </cliente>
+    <cliente>
+        <nombre>Destroyer</nombre>
+        <edad>40</edad>
+    </cliente>
+    <cliente>
+        <nombre>Manolo</nombre>
+        <edad>50</edad>
+    </cliente>
+    <cliente>
+        <nombre>Tin</nombre>
+        <edad>35</edad>
+    </cliente>
+</clientes>
